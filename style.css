@@ -1,0 +1,12 @@
+#img-div {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#image {
+  max-width: 40vw;
+  max-height: 60vh;
+}
